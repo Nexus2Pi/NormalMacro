@@ -1,0 +1,45 @@
+﻿InputBox, OutputVar, Normal Values, Enter Macro Code.  Place cursor within first field within 3seconds!
+if (OutputVar = "B1")
+    Sleep, 3000
+    Send, 0.88
+    Send, {Tab}
+    Send, 1.94
+    Send, {Tab}
+    Send, 48.12
+    Send, {Tab}
+    Send, 18.8
+    Send, {Tab}
+    Send, 30.26
+    Sleep, 300
+    Send, {Down}
+    Sleep, 300
+    Send, {Down}
+    Sleep, 300
+    Send, {Down}
+    Sleep, 300
+    Send, {Left}
+    Sleep, 300
+    Send, {Left}
+    Sleep, 300
+    Send, {Left}
+    Sleep, 300
+    Send, {Down}
+    Sleep, 300
+    Send, {Right}
+    Sleep, 300
+    Send, {Right}
+    Sleep, 300
+    Send, 610.55
+    Sleep, 300
+    Send, {Down}
+    Sleep, 300
+    Send, 14.85
+    Sleep, 300
+    Send, {Down}
+    Sleep, 300
+    Send, 137.5
+    Sleep, 300
+    Send, {Down}
+    Sleep, 300
+    Send, 96
+
